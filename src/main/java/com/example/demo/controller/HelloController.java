@@ -12,4 +12,9 @@ public class HelloController {
 		return " spring boot application started";
 	}
 
+	public String shows() {
+		
+		return " spring boot application started";
+	}
+
 }
